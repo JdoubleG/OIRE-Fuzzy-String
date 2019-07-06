@@ -9,6 +9,10 @@ Written by:  James Garijo-Garde |
              Evaluation (OIRE) |
         in:  April and May, 2019
 
+## DEPRECATED
+I do not actively support this code. Further changes will be made to
+[cbutler01's fork of this project](https://github.com/cbutler01/OIRE-Fuzzy-String).
+
 ## Purpose of this Program
 This program is a command line script that automates a survey processing step
 for the
